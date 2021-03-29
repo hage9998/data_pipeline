@@ -1,0 +1,58 @@
+[{
+  "mode": "REQUIRED",
+  "name": "name_id",
+  "type": "INTEGER"
+},
+{
+  "mode": "NULLABLE",
+  "name": "id",
+  "type": "INTEGER"
+},
+{
+  "mode": "NULLABLE",
+  "name": "data",
+  "type": "DATE"
+},
+{
+  "mode": "NULLABLE",
+  "name": "price",
+  "type": "INTEGER"
+},
+{
+  "mode": "NULLABLE",
+  "name": "grade",
+  "type": "INTEGER"
+},
+{
+  "mode": "NULLABLE",
+  "name": "bedrooms",
+  "type": "INTEGER"
+},
+{
+  "mode": "NULLABLE",
+  "name": "bathrooms",
+  "type": "INTEGER"
+},
+{
+  "mode": "NULLABLE",
+  "name": "floors",
+  "type": "INTEGER"
+},
+{
+  "mode": "NULLABLE",
+  "name": "waterfront",
+  "type": "INTEGER"
+},
+{
+  "mode": "NULLABLE",
+  "name": "yr_built",
+  "type": "INTEGER"
+},
+{
+  "mode": "NULLABLE",
+  "name": "condition_house",
+  "type": "INTEGER"
+}
+
+]
+
